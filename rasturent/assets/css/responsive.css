@@ -1,0 +1,180 @@
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .area{
+        width: 100%;
+    }
+  
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+    img.img-thire {
+        margin-left: 120px;
+        margin-top: 147px;
+    }
+    img.img-one {
+        margin-left: -124px;
+    }
+    .content {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        text-align: center;
+        margin-top: 145px;
+        margin-left: 17%;
+    }
+    .card i {
+        color: #fff;
+        height: 34px;
+        margin-left: 70px;
+        margin-bottom: 4px;
+        background: red;
+        padding: 9px;
+        border-radius: 21px;
+        width: 35px;
+    }
+    a.button {
+        width: 62px;
+        margin-left: 60px;
+    }
+    .cardsection {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin: -72px 0 0 38px;
+    }
+    div#icon {
+        position: relative;
+        margin-left: 631px;
+        display: flex;
+        flex-direction: column-reverse;
+        margin-top: -32px;
+    }
+    .yeamin {
+        text-align: center;
+    }
+    
+    .yeamin img {
+        margin-left: 3px;
+    }
+    .discound-one {
+        flex-basis: 49%;
+    }
+    .discound {
+        flex-basis: 33%;
+    }
+    .discound-one h2 {
+        color: #fff;
+        font-size: 32px;
+        font-weight: 700;
+    }
+    .discound-one h3 {
+        color: red;
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .discound-one p {
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer p {
+        color: #fff;
+        font-size: 10px;
+        padding-left: 2px;
+    }
+    .footer a {
+        color: #FF8000;
+        text-decoration: none;
+        font-size: 12px;
+    }
+    .footer {
+        flex-basis: 18%;
+    }
+    .pizz-one {
+        flex-basis: 16%;
+        position: absolute;
+        margin-right: 506px;
+        margin-top: -154px;
+    }
+    .pizz-two {
+        flex-basis: 16%;
+        position: absolute;
+        margin-left: 579px;
+        margin-top: -151px;
+    }
+    a.button {
+        margin-left: 58px;
+    }
+    }
+
+
+
+
+/* Mobile Layout: 320px. */
+
+@media (max-width: 767px) {
+    .pizz-two {
+        flex-basis: 16%;
+        position: absolute;
+        margin-top: -134px;
+        margin-left: 20px;
+    }
+    img.img-thire {
+        position: absolute;
+        margin-top: 122px;
+        margin-left: 20px;
+    }
+    ul.protfolio-menu {
+        /* display: flex; */
+        /* justify-content: center; */
+        /* margin-top: 30px; */
+        /* margin-bottom: 30px; */
+    }
+    ul.protfolio-menu {
+        /* display: flex; */
+        /* justify-content: center; */
+        /* margin-top: 30px; */
+        /* margin-bottom: 30px; */
+        display: inline-block;
+    }
+    .menu ul {
+        list-style: none;
+        /* display: flex; */
+        /* flex-direction: row; */
+        /* justify-content: right; */
+        display: inline-block;
+    }
+}
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

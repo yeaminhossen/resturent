@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\New folder (2)\\project"
+		},
+		{
+			"path": "..\\..\\..\\New folder (2)\\flexbox-simple-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hi project"
+	}
+}
